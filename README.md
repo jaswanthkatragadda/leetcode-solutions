@@ -16,6 +16,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 ## Math
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2413-smallest-even-multiple](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
@@ -42,5 +43,6 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
