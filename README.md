@@ -7,6 +7,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2574-left-and-right-sum-differences](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3925-concatenate-array-with-reverse](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
@@ -45,4 +46,8 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | ------- |
 | [0223-rectangle-area](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
