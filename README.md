@@ -22,6 +22,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | ------- |
 | [0223-rectangle-area](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2413-smallest-even-multiple](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
@@ -54,6 +55,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | ------- |
 | [0223-rectangle-area](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Prefix Sum
 |  |
 | ------- |
