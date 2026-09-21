@@ -11,6 +11,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | [2574-left-and-right-sum-differences](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
+| [3467-transform-array-by-parity](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3701-compute-alternating-sum](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
@@ -45,6 +46,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [3467-transform-array-by-parity](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -77,4 +79,5 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3467-transform-array-by-parity](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
