@@ -40,6 +40,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [1512-number-of-good-pairs](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -51,6 +52,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3280-convert-date-to-binary](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
