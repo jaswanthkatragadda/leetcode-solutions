@@ -80,4 +80,12 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
