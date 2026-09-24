@@ -40,6 +40,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [1512-number-of-good-pairs](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -52,6 +53,7 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3280-convert-date-to-binary](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/3280-convert-date-to-binary) |
@@ -90,4 +92,8 @@ My LeetCode solutions and DSA practice, organized by topic with a focus on clean
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/jaswanthkatragadda/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
